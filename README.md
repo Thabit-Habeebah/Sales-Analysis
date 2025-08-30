@@ -1,10 +1,10 @@
 # Sales Analysis
 
-## Project Overview
+### Project Overview
 
 This project analyses the trend in sales of a firm in the month of January. It uncovers insight into the performance of the products sold by the firm per day,the profit generated and the effect of tax rate charged on the profit of a firm in that month.
 
-## Dataset Content 
+### Dataset Content 
 
 This datasets contains 5 Dim tables and 1 FactTable 
 
@@ -24,19 +24,19 @@ The Dim tables contain:
 
 * Created 10 new measures using functions such as DIVIDE,SUM,AVERAGE.
 
-## Tools Applied 
+### Tools Applied 
 
 * Microsoft Excel and Power Query for Data cleaning
 * Power BI for Visualization
 * SQL for Data Querying
 * Data Modelling in Power BI
 
- ## Data Cleaning 
+ ### Data Cleaning 
   - Removal of Duplicates 
   - Fixing of inconsistencies in Product Name
   - Filling of Blank rows
 
- ## Data Querying 
+ ### Data Querying 
  What is the total number of sales per product
 
  ```
@@ -57,7 +57,7 @@ ORDER BY Sales DESC
 
 ```
 
-## Answered Questions
+### Answered Questions
  1. What is the total revenue by product and region
  2. The Average Revenue generated per day
  3. Correlation between Revenue and Profit
