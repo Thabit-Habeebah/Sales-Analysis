@@ -32,7 +32,7 @@ The Dim tables contain:
  ## Data Cleaning 
   - Removal of Duplicates 
   - Fixing of inconsistencies in Product Name
-  - Filling of Balnk rows
+  - Filling of Blank rows
 
  ## Data Querying 
  What is the total number of sales per product
